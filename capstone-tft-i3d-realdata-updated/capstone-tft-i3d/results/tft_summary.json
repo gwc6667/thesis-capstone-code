@@ -1,0 +1,14 @@
+{
+  "model": "TFT",
+  "dataset": "OULAD",
+  "epochs": 10,
+  "final_train_loss": 0.1718,
+  "final_val_loss": 0.1632,
+  "final_val_acc": 0.9373,
+  "final_precision": 0.9174,
+  "final_recall": 0.9529,
+  "final_f1_score": 0.9348,
+  "best_val_acc": 0.9373,
+  "device": "cpu",
+  "num_samples": 32593
+}

@@ -1,0 +1,14 @@
+{
+  "model": "Fusion",
+  "dataset": "Prototype(OULAD+eNTERFACE05)",
+  "epochs": 8,
+  "final_train_loss": 0.162,
+  "final_val_loss": 0.1432,
+  "final_val_acc": 0.944,
+  "final_precision": 0.9038,
+  "final_recall": 0.9852,
+  "final_f1_score": 0.9427,
+  "best_val_acc": 0.9448,
+  "device": "cpu",
+  "num_samples": 6519
+}

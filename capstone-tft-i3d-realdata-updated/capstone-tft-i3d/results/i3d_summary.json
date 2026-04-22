@@ -1,0 +1,15 @@
+{
+  "model": "I3D",
+  "dataset": "eNTERFACE05",
+  "epochs": 6,
+  "final_train_loss": 1.7936,
+  "final_val_loss": 1.7918,
+  "final_val_acc": 0.1667,
+  "final_precision": 0.0278,
+  "final_recall": 0.1667,
+  "final_f1_score": 0.0476,
+  "best_val_acc": 0.1667,
+  "device": "cpu",
+  "num_samples": 1287,
+  "num_classes": 6
+}

@@ -1,0 +1,5 @@
+input_size: 5
+hidden_size: 64
+num_epochs: 10
+batch_size: 32
+lr: 0.001

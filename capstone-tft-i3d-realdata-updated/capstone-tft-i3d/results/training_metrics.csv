@@ -1,0 +1,7 @@
+model,epochs,final_train_loss,final_val_loss,final_val_acc,best_val_acc,device,dataset,final_precision,final_recall,final_f1_score,num_samples,num_classes
+TFT,10,0.5409,0.5337,0.705,0.705,cpu,,,,,,
+I3D,6,0.3683,0.1989,0.85,0.85,cpu,,,,,,
+Fusion,8,0.0219,0.0849,0.9833,0.9833,cpu,,,,,,
+TFT,10,0.1718,0.1632,0.9373,0.9373,cpu,OULAD,0.9174,0.9529,0.9348,32593,
+I3D,6,1.7936,1.7918,0.1667,0.1667,cpu,eNTERFACE05,0.0278,0.1667,0.0476,1287,6
+Fusion,8,0.162,0.1432,0.944,0.9448,cpu,Prototype(OULAD+eNTERFACE05),0.9038,0.9852,0.9427,6519,

@@ -1,0 +1,21 @@
+{
+  "source": "C:\\Users\\hw\\Desktop\\capstone-tft-i3d-realdata-updated\\capstone-tft-i3d\\data\\emotions\\enterface_database",
+  "num_samples": 1287,
+  "num_subjects": 43,
+  "emotions": [
+    "anger",
+    "disgust",
+    "fear",
+    "happiness",
+    "sadness",
+    "surprise"
+  ],
+  "counts": {
+    "anger": 215,
+    "disgust": 215,
+    "fear": 215,
+    "happiness": 212,
+    "sadness": 215,
+    "surprise": 215
+  }
+}
