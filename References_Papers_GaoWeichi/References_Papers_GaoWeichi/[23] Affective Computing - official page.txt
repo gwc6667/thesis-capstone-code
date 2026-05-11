@@ -1,0 +1,7 @@
+This item is a book, not a regular research-paper PDF.
+
+Official MIT Press page:
+https://mitpress.mit.edu/9780262661157/affective-computing/
+
+Citation in thesis:
+R. W. Picard, Affective Computing. Cambridge, MA: MIT Press, 1997.
